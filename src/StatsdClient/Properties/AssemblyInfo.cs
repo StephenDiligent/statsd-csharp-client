@@ -13,7 +13,12 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: InternalsVisibleTo("Tests")]
+[assembly: InternalsVisibleTo("Tests,PublicKey=" +
+    "002400000480000094000000060200000024000052534131000400000100010061d49118dc48b4" +
+    "98060e83f5c6228c2bc392e96ff2abe1d8a22cc2ad303551aa4725aa980335bbded37b2dfe5db7" +
+    "6d3b4b5fa44b06313a45c9d12ffc87e1ace25a646f294e302559fdbec497990531bfcf5ba84c11" +
+    "23f1008d334528f3729f292fec3605c4136c23128e03b89e2bf59755aff3e3d42ca289703003f5" +
+    "723d9c88")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 

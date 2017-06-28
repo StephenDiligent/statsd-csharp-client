@@ -3,7 +3,8 @@
   "testRunner": "nunit",
 
   "buildOptions": {
-    "warningsAsErrors": true
+    "warningsAsErrors": true,
+    "keyFile": "../../StatsdClient.snk"
   },
 
   "dependencies": {

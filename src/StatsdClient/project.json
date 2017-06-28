@@ -16,7 +16,8 @@
   },
 
   "buildOptions": {
-    "warningsAsErrors": true
+    "warningsAsErrors": true,
+    "keyFile": "../../StatsdClient.snk"
   },
 
   "frameworks": {
